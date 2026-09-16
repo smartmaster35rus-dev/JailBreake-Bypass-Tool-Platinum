@@ -1,55 +1,73 @@
 # Jailbreak Environment Research Platinum
 
-![Version](https://img.shields.io/badge/version-1.0.0.0-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)
-![Python](https://img.shields.io/badge/python-3.11-yellow)
+**Jailbreak compatibility & environment toolkit — Windows**
 
-**Jailbreak Environment Research Platinum** — portable desktop tool for iCloud / activation screen research utility via SSH on jailbroken iOS devices. Built with PyQt6, styled identically to the A12 Activator Platinum tool family.
+[![Latest release](https://img.shields.io/github/v/release/smartmaster35rus-dev/JailBreake-Bypass-Tool-Platinum?label=Windows&style=for-the-badge)](https://github.com/smartmaster35rus-dev/JailBreake-Bypass-Tool-Platinum/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge&logo=windows)](https://github.com/smartmaster35rus-dev/JailBreake-Bypass-Tool-Platinum/releases)
+[![Website](https://img.shields.io/badge/Site-smartmaster35rus--activator.ru-00c853?style=for-the-badge)](https://smartmaster35rus-activator.ru/)
 
-## Features
+<p align="center">
 
-- **SSH iCloud Research utility** — GSM and MEID activation lock removal (iOS 12–14.5.1)
-- **Hello Screen Research utility** — tethered and untethered activation record injection
-- **A5/A6 Legacy Research utility** — iPhone 4s, 5, 5c on iOS 7–11 with jailbreak
-- **Boot RamDisk** — Recovery-mode boot via checkm8 (A5–A11), img3/img4 chain
-- **MDM Profile Research** — Mobile Device Management profile removal
-- **Passcode / Account** — backup, restore, erase, account removal
-- **Baseband** — remove/restore for MEID activation flow
-- **FactoryActivation** — FairPlay key injection + activation record upload
-- **OTA Block** — disable OTA updates and factory reset permanently
-- **JB Detection** — multi-port SSH scan + credential database (progress 0–100%)
-- **Engineer Menu** — Ctrl+Shift+F11, runtime API URL override, SSH commands
+[в¬‡пёЏ Download latest release](https://github.com/smartmaster35rus-dev/JailBreake-Bypass-Tool-Platinum/releases/latest) В· [рџЄџ macOS build](https://github.com/smartmaster35rus-dev/JailBreak-Bypass-Platinum-mac/releases/latest) В· [рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
 
-## Compatibility
-
-| Device | iOS | Operation |
-|---|---|---|
-| iPhone 4s – iPhone 6 | iOS 7–11 | Legacy JB research utility |
-| iPhone 6s – iPhone X | iOS 12–14.5.1 | GSM / MEID SSH research utility |
-| All checkm8 (A5–A11) | iOS 7–17 | Boot RamDisk |
-| All checkm8 | iOS 12–17 | MDM Profile Research |
-
-## Requirements
-
-- Windows 10 / 11 (x64)
-- Jailbroken iOS device with OpenSSH
-- USB cable + Apple Mobile Device driver
-- Internet connection
-
-## Install
-
-Run the installer or launch the portable executable.
-
-### Hotkeys
-
-| Key | Action |
-|---|---|
-| `Ctrl+Shift+F11` | Developer Engineering Menu |
-
-## License
-
-Proprietary. All rights reserved.
+</p>
 
 ---
 
-© SmartMaster35Rus
+## рџ‡·рџ‡є Рћ РїСЂРѕРіСЂР°РјРјРµ
+
+**Jailbreak Environment Research Platinum** — исследование jailbreak-окружения: совместимость iOS, локальный прокси, подготовка устройства, Platinum UI.
+
+## рџ‡¬рџ‡§ About
+
+Windows toolkit for jailbreak environment research: iOS compatibility matrix, local proxy helpers, device prep, server integration.
+
+---
+
+## вњЁ Key features
+
+| Feature | Description |
+|---------|-------------|
+| 🔓 **JB research** | Environment & compatibility checks |
+| 🌐 **Local proxy** | Server-side payload delivery helpers |
+| 📱 **Device info** | Model, iOS, UDID, region |
+| ⚡ **Quick actions** | Reboot, Recovery, erase |
+| 🔄 **Updates** | GitHub Releases |
+| 🌍 **i18n** | Русский · English |
+
+---
+
+## в¬‡пёЏ Download
+
+**[Releases](https://github.com/smartmaster35rus-dev/JailBreake-Bypass-Tool-Platinum/releases/latest)**
+
+> Use only on devices you are permitted to service. Run Windows builds as Administrator when required.
+
+## рџ“‹ Requirements
+
+- **Windows 10 / 11**
+- Supported iOS range per in-app list
+- USB + Apple Mobile Device driver
+
+## рџ”— Related links
+
+| Resource | URL |
+|----------|-----|
+| macOS build | [JailBreak-Bypass-Platinum-mac](https://github.com/smartmaster35rus-dev/JailBreak-Bypass-Platinum-mac) |
+| Activator / support | [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php) |
+
+---
+
+## вљ–пёЏ Disclaimer
+
+РРЅСЃС‚СЂСѓРјРµРЅС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ **Р°РІС‚РѕСЂРёР·РѕРІР°РЅРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Рё РёСЃСЃР»РµРґРѕРІР°РЅРёР№** РЅР° СѓСЃС‚СЂРѕР№СЃС‚РІР°С…, РєРѕС‚РѕСЂС‹РјРё РІС‹ РІР»Р°РґРµРµС‚Рµ РёР»Рё РёРјРµРµС‚Рµ РїСЂР°РІРѕ РѕР±СЃР»СѓР¶РёРІР°С‚СЊ.
+
+For **authorized service and research** on devices you own or may service.
+
+---
+
+<p align="center">
+
+**SmartMaster35Rus** В· [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
+
+</p>
